@@ -6,6 +6,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 @SpringBootApplication
 @EnableEurekaServer
+//spring cloud整合activemq的一个小例子
 public class ActivemqEurekaApplication {
 
     public static void main(String[] args) {
